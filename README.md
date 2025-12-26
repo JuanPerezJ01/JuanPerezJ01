@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanPerezJ01&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPerezJ01&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPerezJ01&theme=tokyonight)
 

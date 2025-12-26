@@ -32,7 +32,7 @@
 
 <div align="center">
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPerezJ01&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=JuanPerezJ01&theme=tokyonight)
 
 ![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPerezJ01&theme=tokyonight)
 

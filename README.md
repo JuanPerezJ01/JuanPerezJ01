@@ -32,9 +32,9 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JuanPerezJ01&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JuanPerezJ01&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanPerezJ01&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JuanPerezJ01&theme=tokyonight)
 
 </div>
 
